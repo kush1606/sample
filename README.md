@@ -1,4 +1,5 @@
 [![Build Status](https://devopsops.visualstudio.com/test/_apis/build/status/test-CI%20(1)?branchName=master)](https://devopsops.visualstudio.com/test/_build/latest?definitionId=3&branchName=master)
+[![Build Status](https://devopsops.visualstudio.com/test/_apis/build/status/test-CI%20(1)?branchName=master)](https://devopsops.visualstudio.com/test/_build/latest?definitionId=3&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
